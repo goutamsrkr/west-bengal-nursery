@@ -4,7 +4,7 @@ An Astro static landing page based on the supplied West Bengal nursery specifica
 
 ## Status
 
-Source implementation is complete as a **business-content preview**. A production build and visual browser QA are still required. Local dependency installation was blocked by unavailable npm and network DNS. No deployment has been verified yet.
+Published as a **business-content preview** at https://goutamsrkr.github.io/west-bengal-nursery/ . GitHub Actions run 37189752595 successfully built and deployed the Astro site. Live Safari checks verified the hero and collection images, section navigation, responsive menu, and PIN enquiry fallback. Contact details and approved business content remain pending. Core Web Vitals and a full accessibility audit have not been measured.
 
 ## Run
 
@@ -50,7 +50,7 @@ Images are served from Unsplash. License: https://unsplash.com/license
 - id23 — https://unsplash.com/photos/plants-on-balcony-Hvt0KN7lmek
 - Katarzyna Korobczuk — https://unsplash.com/photos/green-plants-on-brown-clay-pots-hNu496tDqm0
 
-Source mappings were verified; image rendering still needs browser verification. Fonts are served from Google Fonts. General care guidance references https://www.rhs.org.uk/plants/types/houseplants/houseplant-101 and https://www.rhs.org.uk/plants/hibiscus/growing-guide .
+Source mappings and the hero/first-row collection rendering were verified. Fonts are served from Google Fonts. General care guidance references https://www.rhs.org.uk/plants/types/houseplants/houseplant-101 and https://www.rhs.org.uk/plants/hibiscus/growing-guide .
 
 ## Release checks
 
